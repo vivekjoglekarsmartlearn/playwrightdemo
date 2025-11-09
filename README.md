@@ -10,4 +10,4 @@ git  clone https://github.com/vivekjoglekarsmartlearn/playwrightdemo.git
 execute below command
 npm install
 To execute test 
-npx playwright test 
+npx playwright test  tests/filename
